@@ -1,1 +1,3 @@
-# cps320-starter
+# README
+
+Upload your assignment submission.
